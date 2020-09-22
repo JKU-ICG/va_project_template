@@ -1,4 +1,4 @@
-# Visual Analytics Lab Project 2019/20
+# Visual Analytics Lab Project 2020/21
 Submission template for the Visual Analytics lab project at the Johannes Kepler University Linz.
 
 **Explanation:**
@@ -10,7 +10,7 @@ For more details see [_Lab Project_ document in the Google Drive folder](https:/
 **Tip:** Make yourself familiar with [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## General Information
-*Due on 09.12.2019.*
+*Due on 07.12.2020.*
 
 ### Group Members
 
@@ -18,9 +18,10 @@ For more details see [_Lab Project_ document in the Google Drive folder](https:/
 | --------------|-------------|----------------|
 | [TODO]        | [TODO]      | [TODO]         |
 | [TODO]        | [TODO]      | [TODO]         |
+| [TODO]        | [TODO]      | [TODO]         |
+| [TODO]        | [TODO]      | [TODO]         |
 
 ### Dataset
-*Due on 19.01.2020.*
 
 * What is the dataset about?
 * Where did you get this dataset from (i.e., source of the dataset)?
@@ -33,24 +34,22 @@ For more details see [_Lab Project_ document in the Google Drive folder](https:/
 Checkout this repo and change into the folder:
 
 ```shell
-git clone https://github.com/jku-icg-classroom/va-project-2019-<GROUP_NAME>.git
-cd va-project-2019-<GROUP_NAME>
+git clone https://github.com/jku-icg-classroom/va-project-2020-<GROUP_NAME>.git
+cd va-project-2020-<GROUP_NAME>
 ```
 
 Create a new environemnt and install the packages needed in the tutorial:
 
 ```shell
-conda create --name va-project python=3.7
+conda create --name va-project
 conda activate va-project
 conda install -c conda-forge --yes --file requirements.txt
 ```
 
-Note: Python 3.8 was just released in October and some packages might no be available yet, therefore we explicitly choose 3.7 here.
-
 Launch Jupyter :
 
 ```shell
-jupyter notebook
+jupyter lab
 ```
 
 Jupyter should open a new tab with url http://localhost:8888/ and display the tutorial files.
@@ -62,7 +61,7 @@ MyBinder installs the dependencies specified inside of the `requirements.txt` fo
 Note: MyBinder can not save to your repository, you need to download the notebooks and update the repository yourself!
 
 ## Final Submission
-*Due on 19.01.2020.*
+*Due on 18.01.2021.*
 
 * Make sure that you pushed your GitHub repository and not just committed it locally.
 * Sending us an email with the code is not necessary.

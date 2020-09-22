@@ -1,6 +1,7 @@
 #python dependencies
 altair
 ipywidgets
+jupyterlab
 matplotlib
 notebook
 numpy
