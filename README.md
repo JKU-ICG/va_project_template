@@ -54,6 +54,10 @@ jupyter lab
 
 Jupyter should open a new tab with url http://localhost:8888/ and display the tutorial files.
 
+### Export Notebook as HTML
+Select 'File' -> 'Export Notebook As...' -> 'Export Notebook to HTML'
+
+
 ### MyBinder
 Go to: https://mybinder.org/ and paste your repository url to work online.
 MyBinder installs the dependencies specified inside of the `requirements.txt` for you.
