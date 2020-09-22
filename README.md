@@ -70,4 +70,4 @@ Note: MyBinder can not save to your repository, you need to download the noteboo
 * Make sure that you pushed your GitHub repository and not just committed it locally.
 * Sending us an email with the code is not necessary.
 * Please update the *requirements.txt* file if you need additional libraries, otherwise the code is not executeable.
-* Save your final executed notebooks as html (File > Download as > HTML) and add them to your repository.
+* Save your final executed notebooks as html and add them to your repository.
