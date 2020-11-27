@@ -50,6 +50,10 @@ Activate the loaded conda environment:
 conda activate python-tutorial
 ```
 
+Install Jupyter Lab extension to use *ipywidgets* in JupyterLab:
+
+```sh
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
 ```
 
 Launch Jupyter :
@@ -60,14 +64,11 @@ jupyter lab
 
 Jupyter should open a new tab with url http://localhost:8888/ and display the tutorial files.
 
-### Export Notebook as HTML
-Select 'File' -> 'Export Notebook As...' -> 'Export Notebook to HTML'
-
-
 ### MyBinder
 Go to: https://mybinder.org/ and paste your repository url to work online.
 MyBinder installs the dependencies specified inside of the `environment.yml` for you.
 
+By default, it will launch to Jupyter Notebook, but you can switch to Jupyter Lab by simply appending `?urlpath=lab` to the URL.
 
 Note: MyBinder can not save to your repository, you need to download the notebooks and update the repository yourself!
 
@@ -76,5 +77,6 @@ Note: MyBinder can not save to your repository, you need to download the noteboo
 
 * Make sure that you pushed your GitHub repository and not just committed it locally.
 * Sending us an email with the code is not necessary.
-* Please update the *requirements.txt* file if you need additional libraries, otherwise the code is not executeable.
-* Save your final executed notebooks as html and add them to your repository.
+* Please update the *environment.yml* file if you need additional libraries, otherwise the code is not executeable.
+* Save your final executed notebooks as html and add them to your repository.  
+  Select 'File' -> 'Export Notebook As...' -> 'Export Notebook to HTML'
