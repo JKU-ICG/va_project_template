@@ -73,7 +73,7 @@ By default, it will launch to Jupyter Notebook, but you can switch to Jupyter La
 Note: MyBinder can not save to your repository, you need to download the notebooks and update the repository yourself!
 
 ## Final Submission
-*Due on 18.01.2021.*
+*Due on 11.01.2021.*
 
 * Make sure that you pushed your GitHub repository and not just committed it locally.
 * Sending us an email with the code is not necessary.
