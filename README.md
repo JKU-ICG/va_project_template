@@ -38,12 +38,18 @@ git clone https://github.com/jku-icg-classroom/va-project-2020-<GROUP_NAME>.git
 cd va-project-2020-<GROUP_NAME>
 ```
 
-Create a new environemnt and install the packages needed in the tutorial:
+Load the conda environment from the `environment.yml` file, if you haven't already in previous assignments:
 
-```shell
-conda create --name va-project
-conda activate va-project
-conda install -c conda-forge --yes --file requirements.txt
+```sh
+conda env create -f environment.yml
+```
+
+Activate the loaded conda environment:
+
+```sh
+conda activate python-tutorial
+```
+
 ```
 
 Launch Jupyter :
@@ -60,7 +66,8 @@ Select 'File' -> 'Export Notebook As...' -> 'Export Notebook to HTML'
 
 ### MyBinder
 Go to: https://mybinder.org/ and paste your repository url to work online.
-MyBinder installs the dependencies specified inside of the `requirements.txt` for you.
+MyBinder installs the dependencies specified inside of the `environment.yml` for you.
+
 
 Note: MyBinder can not save to your repository, you need to download the notebooks and update the repository yourself!
 
