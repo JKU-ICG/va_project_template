@@ -5,7 +5,7 @@ Submission template for the Visual Analytics lab project at the Johannes Kepler 
 This `README.md` needs to be updated and pushed to github for the first and the final deadline.
 Change/extend the corresponding sections by replacing the [TODO] markers.
 *In order to meet the deadlines make sure you push everything to your Github repository.*
-For more details see [Visual Analytics Moodle page](https://moodle.jku.at/jku/course/view.php?id=11328).
+For more details see Visual Analytics [Moodle page Assignment 4](https://moodle.jku.at/jku/course/view.php?id=11328#section-7).
 
 **Tip:** Make yourself familiar with [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
