@@ -14,12 +14,12 @@ For more details see [_Lab Project_ document in the Google Drive folder](https:/
 
 ### Group Members
 
-| Student ID    | First Name  | Last Name      |
-| --------------|-------------|----------------|
-| [TODO]        | [TODO]      | [TODO]         |
-| [TODO]        | [TODO]      | [TODO]         |
-| [TODO]        | [TODO]      | [TODO]         |
-| [TODO]        | [TODO]      | [TODO]         |
+| Student ID    | First Name  | Last Name      | Workload [in %] |
+| --------------|-------------|----------------|-----------------|
+| [TODO]        | [TODO]      | [TODO]         |[TODO]           |
+| [TODO]        | [TODO]      | [TODO]         |[TODO]           |
+| [TODO]        | [TODO]      | [TODO]         |[TODO]           |
+| [TODO]        | [TODO]      | [TODO]         |[TODO]           |
 
 ### Dataset
 
@@ -34,8 +34,8 @@ For more details see [_Lab Project_ document in the Google Drive folder](https:/
 Checkout this repo and change into the folder:
 
 ```shell
-git clone https://github.com/jku-icg-classroom/va-project-2020-<GROUP_NAME>.git
-cd va-project-2020-<GROUP_NAME>
+git clone https://github.com/jku-icg-classroom/va-project-2021-<GROUP_NAME>.git
+cd va-project-2021-<GROUP_NAME>
 ```
 
 Create a new environemnt and install the packages needed in the tutorial:
