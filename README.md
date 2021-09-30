@@ -10,7 +10,7 @@ For more details see [_Lab Project_ document in the Google Drive folder](https:/
 **Tip:** Make yourself familiar with [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## General Information
-*Due on 07.12.2020.*
+*Due on 07.12.2021.*
 
 ### Group Members
 
@@ -65,7 +65,7 @@ MyBinder installs the dependencies specified inside of the `requirements.txt` fo
 Note: MyBinder can not save to your repository, you need to download the notebooks and update the repository yourself!
 
 ## Final Submission
-*Due on 18.01.2021.*
+*Due on 24.01.2022.*
 
 * Make sure that you pushed your GitHub repository and not just committed it locally.
 * Sending us an email with the code is not necessary.
