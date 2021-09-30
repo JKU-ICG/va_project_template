@@ -14,12 +14,12 @@ For more details see [Visual Analytics Moodel page](https://moodle.jku.at/jku/co
 
 ### Group Members
 
-| Student ID    | First Name  | Last Name      | Workload [in %] |
-| --------------|-------------|----------------|-----------------|
-| [TODO]        | [TODO]      | [TODO]         |[TODO]           |
-| [TODO]        | [TODO]      | [TODO]         |[TODO]           |
-| [TODO]        | [TODO]      | [TODO]         |[TODO]           |
-| [TODO]        | [TODO]      | [TODO]         |[TODO]           |
+| Student ID    | First Name  | Last Name      | Workload [%]  |
+| --------------|-------------|----------------|---------------|
+| [TODO]        | [TODO]      | [TODO]         |[TODO]         |
+| [TODO]        | [TODO]      | [TODO]         |[TODO]         |
+| [TODO]        | [TODO]      | [TODO]         |[TODO]         |
+| [TODO]        | [TODO]      | [TODO]         |[TODO]         |
 
 ### Dataset
 
