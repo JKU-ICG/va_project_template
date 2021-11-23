@@ -64,13 +64,6 @@ jupyter lab
 
 Jupyter should open a new tab with url http://localhost:8888/ and display the tutorial files.
 
-### MyBinder
-Go to: https://mybinder.org/ and paste your repository url to work online.
-MyBinder installs the dependencies specified inside of the `environment.yml` for you.
-
-By default, it will launch to Jupyter Notebook, but you can switch to Jupyter Lab by simply appending `?urlpath=lab` to the URL.
-
-Note: MyBinder can not save to your repository, you need to download the notebooks and update the repository yourself!
 
 ## Final Submission
 *Due on 17.01.2022.*
