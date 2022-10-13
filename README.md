@@ -36,7 +36,7 @@ For a detailed project spezification look up the [Visual Analytics Moodel page](
 * Sending us an email with the code is not necessary.
 * Please update the *environment.yml* file if you need additional libraries, otherwise the code is not executeable.
 * Save your executed submission notebooks as HTML and add them to your repository.  
-  * Select 'File' -> 'Export Notebook As...' -> 'Export Notebook to HTML'
+  * Select 'File' -> 'Save and Export Notebook As...' -> 'HTML'
 * Upload the exported HTML file on Moodle, if it is required for the submission.
 
 ## Usage
