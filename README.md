@@ -5,7 +5,7 @@ Submission template for the Visual Analytics lab project at the Johannes Kepler 
 This `README.md` needs to be updated and pushed to GitHub.
 Change/extend the corresponding sections by replacing the [TODO] markers.
 
-For a detailed project spezification look up the [Visual Analytics Moodel page](https://moodle.jku.at/jku/course/view.php?id=20471).
+For a detailed project spezification look up the [Visual Analytics Moodel page](https://moodle.jku.at/jku/course/view.php?id=25624).
 
 **Tip:** Make yourself familiar with [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -45,8 +45,8 @@ For a detailed project spezification look up the [Visual Analytics Moodel page](
 Checkout this repo and change into the folder:
 
 ```shell
-git clone https://github.com/jku-icg-classroom/va-project-2022-<GROUP_NAME>.git
-cd va-project-2022-<GROUP_NAME>
+git clone https://github.com/jku-icg-classroom/va-project-2023-<GROUP_NAME>.git
+cd va-project-2023-<GROUP_NAME>
 ```
 
 Load the conda environment from the `environment.yml` file, if you haven't already in previous assignments:
